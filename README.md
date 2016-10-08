@@ -1,6 +1,6 @@
-#Java Project
+#Fundamentals Project
 
-*Java Project which contains a simple Java Application*
+*Java Project which contains a simple Java fundamental concepts*
 
 * Java 7
 * Eclipse
